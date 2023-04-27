@@ -9,4 +9,5 @@ package webapp;public class Sales {
 
     // more sales items added
 
+    //added holiday sales 50% off
 }
